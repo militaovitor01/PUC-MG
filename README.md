@@ -11,7 +11,7 @@
   
 ## Período 2
 
-* [Algoritmos e Estruturas de Dados 2]((https://github.com/militaovitor01/AEDS2))
+* [Algoritmos e Estruturas de Dados 2](https://github.com/militaovitor01/AEDS2)
 * [Arquitetura de Computadores 1](https://github.com/militaovitor01/AC1)
 * [Trabalho Interdisciplinar 2](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g27-tunerater)
 
