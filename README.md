@@ -17,7 +17,7 @@
 
 ## Período 3
 * [Linguagens de Programação]()
-* [Trabalho Interdisciplinar 3]()
+* [Trabalho Interdisciplinar 3](https://github.com/militaovitor01/TI3)
 
 ## Período 4
 * [Teoria dos Grafos e Computabilidade](https://github.com/militaovitor01/TGrafos)
