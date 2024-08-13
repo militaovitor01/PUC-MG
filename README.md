@@ -6,7 +6,7 @@
 
 ## Período 1
 
-* [Algoritmos e Estruturas de Dados 1]((https://github.com/militaovitor01/AEDS1))
+* [Algoritmos e Estruturas de Dados 1](https://github.com/militaovitor01/AEDS1)
 * [Trabalho Interdisciplinar 1](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-moda-e-estilo)
   
 ## Período 2
