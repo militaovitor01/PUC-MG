@@ -21,3 +21,4 @@
 
 ## Período 4
 * [Teoria dos Grafos e Computabilidade](https://github.com/militaovitor01/TGrafos)
+* [Inteligência Artificial](https://github.com/militaovitor01/IA)
