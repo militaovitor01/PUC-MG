@@ -27,5 +27,4 @@
 * [Trabalho Interdisciplinar 5](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti5-2025-1-g15-timecare)
 * [Engenharia de Software 2](https://github.com/militaovitor01/EngenhariaSoftware2)
 * [Arquitetura de Computadores 3](https://github.com/militaovitor01/ACIII)
-
-
+* [Projeto e Análise de Algoritmos](#)
